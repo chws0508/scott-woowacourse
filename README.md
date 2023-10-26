@@ -13,7 +13,7 @@
 - [Abstract Class vs Interface](https://prolog.techcourse.co.kr/studylogs/2838)
 - [어댑터 패턴](https://prolog.techcourse.co.kr/studylogs/2973)
 
-## :loudspeaker: Level 2 (2022.04.19. ~ 06.10.)
+## :loudspeaker: Level 2 (2023.04.11. ~ 06.09.)
 |Project|Repository|Pull Requests|
 |-|-|-|
 |영화 티켓 예매|[android-movie-ticket](https://github.com/woowacourse/android-movie-ticket/tree/chws0508)|[1, 2단계 PR](https://github.com/woowacourse/android-movie-ticket/pull/6) <br> [3, 4단계 PR](https://github.com/woowacourse/android-movie-ticket/pull/39)|
@@ -27,12 +27,12 @@
 - [Repository 패턴](https://prolog.techcourse.co.kr/studylogs/3501)
 - [동기 vs 비동기, 동시성 vs 병렬성, 비동기 vs 논블록](https://prolog.techcourse.co.kr/studylogs/3630)
 
-## :loudspeaker: Level 3,4 (2022.06.27. ~ 10.30.)
+## :loudspeaker: Level 3,4 (2023.06.27. ~ 10.30.)
 **개발자 행사 정보부터 동행 요청까지, F커디**
 - [서비스 링크](https://play.google.com/store/apps/details?id=com.emmsale&hl=ko-KR)
 - [GitHub](https://github.com/woowacourse-teams/2023-emmsale)
 
-## :loudspeaker: Level 4 (2022.08.29. ~ 10.30.)
+## :loudspeaker: Level 4 (2023.08.29. ~ 10.30.)
 
 |Project|Repository|Pull Requests|
 |-|-|-|
